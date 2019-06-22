@@ -14,3 +14,5 @@ To create 'egp_scribe.exe' from 'egp_scribe.py':
     When process finishes running, 'egp_scribe.exe' will be located in the 'dist' folder. 
 
 (egp_scribe.exe is not natively included in this GitHub repo strictly due to file size limitations)
+
+See also "Convert PY to EXE" by PyTutorials: https://www.youtube.com/watch?v=lOIJIk_maO4 
