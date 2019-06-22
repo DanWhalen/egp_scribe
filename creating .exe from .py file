@@ -1,14 +1,14 @@
 To create 'egp_scribe.exe' from 'egp_scribe.py':
 
-    1) install pyinstaller package
+    1) Install pyinstaller package
         open command line, and run the following command
             pip3 install pyinstaller
         Once installed, close your command line
         
-    2) open command line terminal from folder where you've saved 'egp_scribe.py', OR 
+    2) Open command line terminal from folder where you've saved 'egp_scribe.py', OR 
         open your command line terminal anywhere, and cd/navigate to the same folder you've saved 'egp_scribe.py'
     
-    3) once in the folder containing 'egp_scribe.py', run the following from the command line
+    3) Once in the folder containing 'egp_scribe.py', run the following from the command line
         pyinstaller -F egp_scribe.py
     
     When process finishes running, 'egp_scribe.exe' will be located in the 'dist' folder. 
