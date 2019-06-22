@@ -23,7 +23,7 @@ egp_scribe is an independent program that recovers the .sas files contained in a
 # HOW TO USE:
 egp_scribe can be used to extract code saved in a SAS .egp file, even if the user does not have a copy of SAS installed on their computer.
 
-To use egp_scribe, create a folder on your computer's desktop.  Name it 'egp scribe'.  Save a copy of egp_scribe into the 'egp scribe' folder.  Then put any number of .egp files in the 'egp scribe' folder as well.  Once you have egp_scribe, and all the .egp files you want to access copied into the folder, double click egp_scribe and follow the prompts.
+To use egp_scribe, create a folder on your computer's desktop.  Name it 'egp scribe'.  Save a copy of egp_scribe (.exe version of egp_scribe is recommended) into the 'egp scribe' folder.  Then put any number of .egp files in the 'egp scribe' folder as well.  Once you have egp_scribe, and all the .egp files you want to access copied into the folder, double click egp_scribe and follow the prompts.
 
 After egp_scribe successfully runs, it will create a series of txt files, one xml, one csv, and a read_me.
 
