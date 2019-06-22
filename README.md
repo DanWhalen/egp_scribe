@@ -3,8 +3,6 @@
 
 It is recommended that you download 'egp_scribe.py' from this repo, then use the Python pyinstaller library to create a .exe version of the .py file.
 
-Creating an .exe makes the egp scribe file usable on any computer, even computers that do not have Python installed on them.
-
 See also "Convert PY to EXE" by PyTutorials: https://www.youtube.com/watch?v=lOIJIk_maO4 
 
 =======================================================================
