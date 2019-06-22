@@ -165,6 +165,7 @@ while True:
         shutil.rmtree(os.path.join(safe_name_short))    
 
         # write out master df
+        master['script'] = master['script']+'.sas'
         master.to_csv(os.path.join(new_folder,'summary.csv'), index=False)
 
         # add read_me to new folder
