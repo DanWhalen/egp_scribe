@@ -1,5 +1,5 @@
 # TECHNICAL NOTE
-'egp_scribe.py' is available for download from this repo.  However, the .exe version of that script is not included in this repo, due to file size limitations.
+'egp_scribe.py' is available for download from this repo.  However, a .exe version of that script is not included in this repo, due to file size limitations.
 
 It is recommended that you download 'egp_scribe.py' from this repo, then use the Python pyinstaller library to create a .exe version of the .py file.
 
